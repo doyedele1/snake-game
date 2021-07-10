@@ -13,6 +13,10 @@ To run this project locally on your PC:
 ```
 
 2. Open up your command line interface (CLI) and navigate to the project directory.
+```bash
+  $ cd my-project
+```
+    
 
 3. Run the following command to install dependencies. Ensure Node is installed on your computer first.
 ```bash
