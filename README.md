@@ -3,7 +3,7 @@
 Client-side snake game built by reversing the Linked List data structure. The UI of the game is built using React.
 
 
-## Deployment
+## Run Locally
 
 To run this project locally on your PC:
 
