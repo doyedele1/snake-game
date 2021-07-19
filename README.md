@@ -32,6 +32,3 @@ To run this project locally on your PC:
 ## Conclusion
 
 If you have any feedback or future collaboration, please reach out to me at demilade.oyedele@gmail.com
-
-  
-
